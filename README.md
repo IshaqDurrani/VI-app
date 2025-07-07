@@ -7,14 +7,14 @@ This Streamlit-based web application calculates and visualizes a Vulnerability I
 - **Built-Up Index (BUI)** from Landsat
 - **Population Density** from WorldPop
 
-## 🚀 Features
+## Features
 - Visualize input raster datasets
 - Generate a composite vulnerability index
 - Export results as CSV
 - Interactive map-based visualization
 - Ready for deployment on Streamlit Community Cloud
 
-## 📦 Requirements
+## Requirements
 
 Install dependencies using:
 
@@ -22,20 +22,20 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
-## ▶️ Running the App
+## Running the App
 
 ```bash
 streamlit run app.py
 ```
 
-## 🌍 Data Sources
+## Data Sources
 - [GHSL - JRC](https://ghsl.jrc.ec.europa.eu/)
 - [MODIS LST - NASA](https://modis.gsfc.nasa.gov/)
 - [Landsat - USGS](https://landsat.gsfc.nasa.gov/)
 - [WorldPop - Southampton](https://www.worldpop.org/)
 
-## ✨ Authors
-Developed by a climate and urban remote sensing researcher using Google Earth Engine and Python.
+## Authors
+Developed by ##Ishaq Ali Shah using Google Earth Engine and Python.
 
 ---
 
