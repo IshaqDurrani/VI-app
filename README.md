@@ -3,9 +3,12 @@
 This Streamlit-based web application calculates and visualizes a Vulnerability Index for urban environments by integrating:
 
 - **Built-up area change** from GHSL (1975–2020)
-- **Land Surface Temperature (LST)** from MODIS
+- **Land Surface Temperature (LST)** from Landsat
 - **Built-Up Index (BUI)** from Landsat
 - **Population Density** from WorldPop
+- **Urban Heat Island (UHI)** from Landsat LST
+- **Normalized Difference Built-Up Index (NDBI)** from Landsat
+- **Urban Thermal Field Variance Index (UTFVI)** from Landsat LST
 
 ## Features
 - Visualize input raster datasets
