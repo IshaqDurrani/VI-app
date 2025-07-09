@@ -1,4 +1,4 @@
-# Urban Vulnerability Index Web App
+# Urban Heat Vulnerability Index Web App
 
 This Streamlit-based web application calculates and visualizes a Vulnerability Index for urban environments by integrating:
 
